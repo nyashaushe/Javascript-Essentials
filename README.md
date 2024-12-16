@@ -1,0 +1,2 @@
+# Javascript-Essentials
+Learning javascript
